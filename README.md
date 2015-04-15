@@ -4,7 +4,13 @@ Version 0.2.6
 
 This Phonegap plugin enables WiFi management from within Phonegap applications.
 
-Only Android is in development at this time. iOS is planned to be developed, with other platforms following.
+Only Android is in development at this time, with other platforms following.
+
+### iOS
+Only getConnectedSSID is supported right now.
+
+### Android
+All functions should work fine.
 
 ### Installation
 
